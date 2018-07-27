@@ -1,0 +1,66 @@
+First Output, with default parameters:
+Running simulation
+Simulation over! Project Summary:
+No command line arguments were given! 
+Used default values of: gridSize = 20, doodleBugs = 5, ants = 100, time_steps = 1000, seed = 1, pause = 0
+Simulated 1000 steps.
+Started with 100 ants, and 5 doodle bugs.
+Total number of ants: 26535, with only 173 ants left.
+Total number of doodle bugs: 2814, with only 14 doodle bugs left.
+Simulation terminated by reaching time step 1000.
+x-ooox----------oooo
+-oo-o-----------oxo-
+oooxox--------xx-oo-
+oo------------x---oo
+ooo--------------x--
+ox-ox-----------oooo
+oo---o-----------x--
+o-oooo-oo-----------
+oxooooo-----------o-
+oooo--o-o-------o---
+oooooo--o-----------
+ooooo-o---o----o-o--
+ooo-o-oooo--o-o---o-
+oo-oooooooooo-------
+oo-oooooo-ooo----o-o
+o-oooooooooo--x----o
+oo-o-ooooooo-----o-o
+ooo-ooooooooo--ooo-o
+ooooooooooooo-oo----
+-oo-oooooooo---o----
+
+
+Second output, with parameters 25 7 25 750 1234 0
+Running simulation
+Simulation over! Project Summary:
+Used Arguments: gridSize = 25, doodleBugs = 7, ants = 25, time_steps = 750, seed = 1234, pause = 0
+Simulated 2 steps.
+Started with 25 ants, and 7 doodle bugs.
+Total number of ants: 48, with only 46 ants left.
+Total number of doodle bugs: 7, with only 0 doodle bugs left.
+Simulation terminated because all of the Doodle Bugs died.
+---------------------o-o-
+------------o--------o--o
+-------------------------
+---------oo-o--o---------
+------o-ooo-----o--------
+-------o-o---------------
+-------oo-o--------------
+-------o-----------------
+-------------------------
+-o---oo------------------
+-o-------oo------oo------
+o------------------------
+oo-----------------------
+o-----------o------------
+-----------o-------------
+-------------------------
+-------------------------
+--------------oo---------
+--------------------oo---
+-------------------------
+----------------------oo-
+--------------o----------
+--o---o--------o---------
+---o-o-------------------
+-------------------------
