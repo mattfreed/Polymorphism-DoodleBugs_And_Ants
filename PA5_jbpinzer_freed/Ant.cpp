@@ -2,7 +2,7 @@
  * Ant.cpp
  *
  *  Created on: Feb 20, 2018
- *      Author: mwfreed
+ *      Authors: mwfreed, jbpinzer
  */
 
 #include "Ant.h"
