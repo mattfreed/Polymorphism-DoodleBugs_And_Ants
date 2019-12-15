@@ -2,7 +2,7 @@
  * Simulation.cpp
  *
  *  Created on: Feb 19, 2018
- *      Author: jbpinzer
+ *      Authors: jbpinzer, mwfreed
  */
 
 #include "Simulation.h"
